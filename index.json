@@ -1,0 +1,153 @@
+{
+  "library": "Synth Pad Choir",
+  "description": "Choir-like synth pad from freepats",
+  "license": "CC0-1.0",
+  "author": "freepats.zenvoid.org",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-pad-choir",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-pad-choir-previews",
+  "branch": "main",
+  "fileCount": 12,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/",
+  "files": [
+    {
+      "file": "C2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/C2.mp3",
+      "size": 109966,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/C3.mp3",
+      "size": 109966,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/C4.mp3",
+      "size": 109966,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/C5.mp3",
+      "size": 109966,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/C6.mp3",
+      "size": 109966,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/C7.mp3",
+      "size": 109966,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/Fs2.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/Fs3.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/Fs4.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/Fs5.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/Fs6.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-pad-choir-previews/main/Fs7.mp3",
+      "size": 109966,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.mp3"
+    ],
+    "48": [
+      "C3.mp3"
+    ],
+    "60": [
+      "C4.mp3"
+    ],
+    "72": [
+      "C5.mp3"
+    ],
+    "84": [
+      "C6.mp3"
+    ],
+    "96": [
+      "C7.mp3"
+    ]
+  }
+}
